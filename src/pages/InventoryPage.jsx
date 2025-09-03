@@ -1,4 +1,4 @@
-import Card from "../components/Card.jsx";
+import Card from "../components/other/Card.jsx";
 import sStock from "../data/sStock.js";
 import mStock from "../data/mStock.js";
 import lStock from "../data/lStock.js";
