@@ -19,7 +19,7 @@ function Support() {
               type="button"
               className="p-2 rounded-r-full w-1/4 md:w-20 bg-gray-300 border hover:cursor-pointer"
             >
-              Search
+              Search.
             </button>
           </div>
         </div>
