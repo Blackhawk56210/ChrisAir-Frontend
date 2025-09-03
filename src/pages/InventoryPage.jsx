@@ -2,6 +2,7 @@ import Card from "../components/Card.jsx";
 import sStock from "../data/sStock.js";
 import mStock from "../data/mStock.js";
 import lStock from "../data/lStock.js";
+// Dummy commit for vercell
 
 const sections = [
   { title: "Small AirCrafts", data: sStock },
