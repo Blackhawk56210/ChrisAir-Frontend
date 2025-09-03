@@ -1,5 +1,6 @@
 import Accordion from "../components/support/Accordion.jsx";
 import Team from "../assets/images/support.png";
+// dummy add for vercell
 
 function Support() {
   return (
